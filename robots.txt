@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ieyeeyooqu.alexdunn.info/sitemap.xml
